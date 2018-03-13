@@ -10,6 +10,11 @@ namespace SincronizarFechaHoraC
     {
         static void Main(string[] args)
         {
+            SincronizarFechaHora sincronizarFechaHora = new SincronizarFechaHora();
+
+            sincronizarFechaHora.Sincronizar();
+
+            //Console.ReadKey();
         }
     }
 }
