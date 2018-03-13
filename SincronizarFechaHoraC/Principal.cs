@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SincronizarFechaHoraC
 {
-    class Program
+    class Principal
     {
         static void Main(string[] args)
         {
